@@ -1,7 +1,7 @@
-# TONFT | NFT Bazaar Backend
-Welcome to the TONFT | NFT Bazaar backend GitHub repository! This repository contains the backend code for the first NFT bazaar on TON.
+# TONFT | NFT Lasavo Backend
+Welcome to the TONFT | NFT Lasavo backend GitHub repository! This repository contains the backend code for the first NFT bazaar on TON.
 
-![TONFT | NFT Bazaar](img/backend_hero.png)
+![TONFT | NFT Lasavo](img/backend_hero.png)
 
 ## Prerequisites
 Before running the backend, make sure to have the following installed:
@@ -41,6 +41,6 @@ Telegram bot that notifies users about new offers and sales of NFTs.
 Backend is written in two languages: `TypeScript` and `Go`.
 
 ## Contribution
-Pull requests and suggestions are welcome on [@qpwedev](https://t.me/qpwedev) telegram.
+Pull requests and suggestions are welcome on [@aravi](https://t.me/aravi) telegram.
 
 Thank you for using TONFT | NFT Bazaar!
